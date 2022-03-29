@@ -44,7 +44,7 @@ class Casethree extends Login{                       //  tesla
 class Casefour extends Casetwo{                    //BoA
 	 void loginapp() {
 		 System.out.println("adress");
-		 
+		 System.out.println("grade");
 	 }
 	
 }
